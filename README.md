@@ -4,7 +4,7 @@
 ```Rust
 fn main() {
     println!("I am a Rust programmer");
-    for framework in ["ratatui", "slint"] {
+    for framework in ["ratatui", "slint", "iced"] {
         println!("I use {framework}");
     }
 }
